@@ -7,7 +7,7 @@
 | Universidad | Universidad Privada de Tacna (UPT) |
 | Curso | Construcción de Software II |
 | Semestre | 2026-II |
-| Docente | *(completar)* |
+| Docente | Ing.RICARDO EDUARDO VALCARCEL ALVARADO |
 | Proyecto | SCAB-UPT |
 
 ## Integrantes
